@@ -13,7 +13,7 @@ Leave a comment below if you're able to host, sponsor or organize! :smile_cat:
 Once we have a a venue, sponsors, and organizers, we can:
 - [ ] Work together to set an RSVP limit that works for everyone
 - [ ] Post the workshop to [Bridge Troll](http://www.bridgetroll.org/)
-- [ ] Post the workshop to Meetup ([Android](http://www.meetup.com/Learning-Android-Development/))([iOS](http://www.meetup.com/Learning-iOS-Development-SF/)) for publicity 
+- [ ] Post the workshop to appropriate Meetup group(s) for publicity 
 
 One to two weeks out, we can:
 - [ ] Plan a teacher training
