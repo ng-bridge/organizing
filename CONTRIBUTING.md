@@ -1,5 +1,7 @@
 ## Template to paste into new Organizing issues
 
+[https://gist.github.com/kmolo/90a2df9e47063e02b948#file-mobilebridge_issue_template-md](https://gist.github.com/kmolo/90a2df9e47063e02b948#file-mobilebridge_issue_template-md)
+
 This workshop's going to be amazing!! Here's what we need to do!
 
 A few months out:
